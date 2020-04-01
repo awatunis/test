@@ -1,4 +1,4 @@
-<mxfile etag="5pDk7gEOn20TIYqZUft9" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" modified="2020-04-01T20:26:20.513Z" host="app.diagrams.net" version="12.9.6" type="github" pages="7">
+<mxfile etag="RIFo49cSLNcXTIU4np_o" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" modified="2020-04-01T20:43:54.433Z" host="app.diagrams.net" version="12.9.6" type="github" pages="7">
   <diagram id="J0ojM0bSp0G7YTS-gxtY" name="Modèle relationnel">
     <mxGraphModel dx="784" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         </mxCell>
         <UserObject label="" link="data:page/id,T3wlZZCwztBy5e2ABQ8u" id="n0tBcaGLEgrVNdWoAISa-0">
           <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#009900;" vertex="1" parent="6n2aTXFzNm_1piKpzYSk-1">
-            <mxGeometry x="720" y="440" width="90" height="50" as="geometry" />
+            <mxGeometry x="680" y="440" width="90" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -129,18 +129,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lveLKnOKtgrKjz8GH1mI" name="Mockup">
-    <mxGraphModel dx="784" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1045" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cJxY9gKRh2DEsy214VH5-0" />
         <mxCell id="cJxY9gKRh2DEsy214VH5-1" parent="cJxY9gKRh2DEsy214VH5-0" />
         <UserObject label="Accueil" link="data:page/id,tKTY03zEuorLPt2abKET" id="zzK2jJ_dytooA-tGFkLz-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="cJxY9gKRh2DEsy214VH5-1">
             <mxGeometry y="70" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Nos chambres" link="data:page/id,tKTY03zEuorLPt2abKET" id="VFoyZ5zYI_eowRRiAsuM-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="cJxY9gKRh2DEsy214VH5-1">
-            <mxGeometry x="180" y="70" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Notre cuisine" link="data:page/id,tKTY03zEuorLPt2abKET" id="VFoyZ5zYI_eowRRiAsuM-1">
